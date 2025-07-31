@@ -29,7 +29,7 @@ describe('unicafe reducer', () => {
     expect(newState).toEqual({
       good: 1,
       ok: 0,
-      bad: 0
+      bad: 0,
     })
   })
 
